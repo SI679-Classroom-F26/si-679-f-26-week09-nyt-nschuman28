@@ -24,3 +24,5 @@ export const disconnect = async (): Promise<void> => {
 };
 
 export const getDb = (): Db => database;
+
+
